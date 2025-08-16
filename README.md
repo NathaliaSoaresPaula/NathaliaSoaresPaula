@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Nathalia Soares Paula
 
-<!--
-**NathaliaSoaresPaula/NathaliaSoaresPaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👷‍♀️ **Profissional de Planejamento/Engenharia**
+- 📚 Apaixonada por tecnologia, inovação e projetos que transformam o mundo.
+- 🗣️ Idioma: Português
+
+## 🌱 O que estou aprendendo
+
+Sempre buscando aprimorar meus conhecimentos em ferramentas e métodos de engenharia, planejamento e gestão de projetos.
+
+## 🚀 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/nathalia-soares-31a511231)
+- 📧 E-mail: nathalia.soares2006@gmail.com
+
+Sinta-se à vontade para entrar em contato ou conhecer meus projetos!
